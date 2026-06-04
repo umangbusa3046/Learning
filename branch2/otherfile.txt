@@ -1,0 +1,6 @@
+this is other file 
+now this is new <ul class="list-inline">
+    <li class="list-inline-item">Item</li>
+    <li class="list-inline-item">Item</li>
+    <li class="list-inline-item">Item</li>
+</ul>
