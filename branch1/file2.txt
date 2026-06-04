@@ -1,2 +1,4 @@
 this is second file of branch 1
+<<<<<<< HEAD
 this file now use for learning git ddd
+=======

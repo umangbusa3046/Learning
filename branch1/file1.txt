@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 this is my first file 
 now i add data
+=======
